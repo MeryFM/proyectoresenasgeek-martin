@@ -1,0 +1,164 @@
+:root {
+    font-family: 'Supermercado One', cursive;
+    --animate-duration: 1000ms;
+    --animate-delay: 0.9s;
+}
+
+/* Modificar / Apagar los valores default */
+* {
+    margin: 0px;
+    margin-bottom: 5px;
+    padding: 0px;
+}
+
+/* Imagen de Fondo */
+body {
+    background-image: url("../multimedia/carpeta.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 50%;
+}
+
+/* Lista */
+li {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    background-color: rgba(255, 255, 255, 0.411);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+/* Textos*/
+p {
+    display: inline;
+    text-align: center;
+}
+
+/* NAV */
+nav {
+    display: flex;
+    justify-self: space-between;
+}
+
+/* Header */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+/* Lista Desordenada (Este es el que hizo que pueda alinear el iconito con el NAV) */
+ul {
+    display: inline;
+}
+
+/* Footer */
+footer {
+    margin-top: 100px;
+}
+
+/* Icono superior */
+.IconoDelSitio {
+    width: 64px;
+    display: inline;
+    border-style: ridge;
+    border-color: rgb(0, 0, 0);
+    background-color: rgba(255, 225, 169, 0.63);
+    border-radius: 50px;
+    
+}
+
+/* Imagen del index */
+.FotoDelivery {
+    width: 600px;
+    display: block;
+    background-color: rgba(255, 255, 255, 0.411);
+    border-radius: 15px;
+}
+
+.IconoDelSitio:hover {
+    rotate: (360deg);
+}
+
+/* Iconos de Descripción */
+.IconitoIndex {
+    width: 64px;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    shape-outside: circle(50% at 60%);
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Patita {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.411);
+    border-radius: 15px;
+    border-style: groove;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.Texto {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    width: 40%;
+    background-color: rgba(255, 255, 255, 0.411);
+    border-radius: 15px;
+    border-style: groove;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.grid-container {
+    display:grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: auto auto auto;
+    border: 4px solid;
+    justify-content: center;
+}
+
+.grid-item {
+    border: 2px;
+    padding: auto;
+    margin: 5px;
+    border: solid 5px;
+    padding: auto;
+}
+
+.deadpool {
+    background-color: crimson;
+    align-self: center;
+    color: black;
+}
+
