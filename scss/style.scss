@@ -1,0 +1,20 @@
+/* Nesting o anidamiento*/
+
+header {
+    background-color: black;
+    nav {
+        ul {
+            list-style: none;
+            li {
+                list-style-type: circle;
+                a {
+    text-decoration: underline;
+                }
+            }
+        }
+    }
+    @media screen and (max-width: 768px) {
+        background-color: teal;
+    }
+}
+
