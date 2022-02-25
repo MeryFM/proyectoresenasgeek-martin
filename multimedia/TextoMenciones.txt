@@ -6,4 +6,10 @@ Iconito Calavera Shakespeare <a href="https://www.flaticon.com/free-icons/skull"
 Iconito Tipo Pensando <a href="https://www.flaticon.com/free-icons/consider" title="consider icons">Consider icons created by Eucalyp - Flaticon</a>
 Iconito Comedia <a href="https://www.flaticon.com/free-icons/comedy" title="comedy icons">Comedy icons created by Freepik - Flaticon</a>
 Pibe de Delivery enojado <a href='https://www.freepik.es/fotos/hombre'>Foto de Hombre creado por stockking - www.freepik.es</a>
+<<<<<<< HEAD
 Foto de Karolina Grabowska en Pexels https://www.pexels.com/es-es/@karolina-grabowska?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
+=======
+Foto de Karolina Grabowska en Pexels https://www.pexels.com/es-es/@karolina-grabowska?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
+Foto de Pixabay en Pexels https://www.pexels.com/es-es/foto/sillas-multicolores-en-fila-257385/
+Deadpool Oops: https://es.finance.yahoo.com/news/deadpool-aparece-universo-cinematogr%c3%a1fico-marvel-001900463.html
+>>>>>>> 006081d77d43aafc4e490e3f2cb913879e68be73
