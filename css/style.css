@@ -203,4 +203,46 @@ footer {
   justify-self: center;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  border: 4px solid transparent;
+  justify-content: center;
+}
+
+.grid-item {
+  display: grid;
+  grid-template-columns: auto;
+  width: 90%;
+  border: 2px;
+  padding: 2%;
+  margin: 5px;
+  border: solid 5px;
+  padding: auto;
+  justify-self: center;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+  text-justify: center;
+}
+
+.deadpool {
+  width: max-content;
+  background-color: crimson;
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(https://s.yimg.com/ny/api/res/1.2/5dKZFYhR7.96YJWYRvFq3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/Za7qbn.7DhwW0E9swdBpjA--~B/aD0zMDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/es/levelup_525/633b34e07866e002d9871b69ff5db59d);
+}
+
+.VideoTimmyDad {
+  justify-self: center;
+}
+
+.centrartextocajitas {
+  text-align: center;
+}
+
 /*# sourceMappingURL=style.css.map */
