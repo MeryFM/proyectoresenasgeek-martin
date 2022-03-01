@@ -1,5 +1,21 @@
+@charset "UTF-8";
+header nav ul {
+  list-style: none;
+}
+header nav ul li {
+  list-style-type: circle;
+}
+header nav ul li a {
+  text-decoration: underline;
+}
+@media screen and (max-width: 768px) {
+  header {
+    background-color: #001780;
+  }
+}
+
 :root {
-  font-family: 'Supermercado One', cursive;
+  font-family: "Supermercado One", cursive;
 }
 
 /* Modificar / Apagar los valores default */
@@ -78,7 +94,7 @@ footer {
   width: 64px;
   display: inline;
   border-style: ridge;
-  border-color: rgb(0, 0, 0);
+  border-color: black;
   background-color: rgba(255, 225, 169, 0.63);
   border-radius: 50px;
 }
@@ -133,24 +149,4 @@ footer {
   padding: 10px;
 }
 
-/* Nesting o anidamiento*/
-header {
-  background-color: black;
-}
-header nav ul {
-  list-style: none;
-}
-header nav ul li {
-  list-style-type: circle;
-}
-header nav ul li a {
-  text-decoration: underline;
-}
-@media screen and (max-width: 768px) {
-  header {
-    background-color: teal;
-  }
-}
-
 /*# sourceMappingURL=style.css.map */
-
