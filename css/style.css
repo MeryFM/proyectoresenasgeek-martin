@@ -1,24 +1,3 @@
-/* Nesting o anidamiento*/
-header {
-  background-color: black;
-}
-header nav ul {
-  list-style: none;
-}
-header nav ul li {
-  list-style-type: circle;
-}
-header nav ul li a {
-  text-decoration: underline;
-}
-@media screen and (max-width: 768px) {
-  header {
-    background-color: teal;
-  }
-}
-
-/*# sourceMappingURL=style.css.map */
-
 :root {
   font-family: 'Supermercado One', cursive;
 }
@@ -153,3 +132,25 @@ footer {
   border-radius: 15px;
   padding: 10px;
 }
+
+/* Nesting o anidamiento*/
+header {
+  background-color: black;
+}
+header nav ul {
+  list-style: none;
+}
+header nav ul li {
+  list-style-type: circle;
+}
+header nav ul li a {
+  text-decoration: underline;
+}
+@media screen and (max-width: 768px) {
+  header {
+    background-color: teal;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
+
