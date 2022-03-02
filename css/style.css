@@ -245,4 +245,15 @@ footer {
   text-align: center;
 }
 
+.iframesspoty {
+  display: grid;
+  align-items: center;
+  align-self: center;
+  border-radius: 15px;
+  border-style: groove;
+  border-radius: 15px;
+  padding: 10px;
+  justify-self: center;
+}
+
 /*# sourceMappingURL=style.css.map */
