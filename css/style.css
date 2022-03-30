@@ -1,4 +1,13 @@
 @charset "UTF-8";
+header {
+  background-color: #dfd7c4;
+  text-align: center;
+}
+
+footer {
+  background-color: #497e76;
+}
+
 header nav ul {
   list-style: none;
 }
@@ -12,6 +21,35 @@ header nav ul li a {
   header {
     background-color: #001780;
   }
+}
+
+header {
+  background-color: #dfd7c4;
+  text-align: center;
+}
+
+footer {
+  background-color: #497e76;
+}
+
+header {
+  background-color: #dfd7c4;
+  text-align: center;
+}
+
+footer {
+  background-color: #497e76;
+}
+
+footer, header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer, header {
+  border-radius: 15px;
+  padding: 25px;
 }
 
 :root {
@@ -135,10 +173,7 @@ footer {
   flex-direction: column;
   align-items: center;
   align-self: center;
-  width: 70%;
   background-color: rgba(255, 255, 255, 0.411);
-  border-radius: 15px;
-  border-style: groove;
   border-radius: 15px;
   padding: 25px;
 }
@@ -149,7 +184,6 @@ footer {
   align-self: center;
   width: 65%;
   background-color: rgba(255, 255, 255, 0.411);
-  border-radius: 15px;
   border-style: groove;
   border-radius: 15px;
   padding: 10px;
@@ -254,6 +288,10 @@ footer {
   border-radius: 15px;
   padding: 10px;
   justify-self: center;
+}
+
+a {
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=style.css.map */

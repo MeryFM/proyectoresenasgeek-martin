@@ -1,0 +1,20 @@
+%centroflex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+%borderedondito {
+    border-radius: 15px;
+    padding: 25px;
+}
+
+header {
+    @extend %borderedondito;
+    @extend %centroflex;
+}
+
+footer {
+    @extend %borderedondito;
+    @extend %centroflex;
+}

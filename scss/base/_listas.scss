@@ -1,11 +1,20 @@
 
 $colores:
-#3d4c72
-#dfd7c4
-#c0c0c0
-#e51d2e
-#bfbf6c
-#fafbfd
-#497e76
+#3d4c72,
+#dfd7c4,
+#c0c0c0,
+#e51d2e,
+#bfbf6c,
+#fafbfd,
+#497e76;
+
+header {
+    background-color: nth($colores, 2);
+    text-align: center;
+}
+
+footer {
+    background-color: nth($colores, 7);
+}
 
 
