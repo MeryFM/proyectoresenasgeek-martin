@@ -13,6 +13,6 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
-    "sass": "^1.49.9"
+    "sass": "^1.49.10"
   }
 }
