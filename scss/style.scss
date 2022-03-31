@@ -26,6 +26,7 @@
     display: grid;
     justify-self: center;
     align-self: center;
+    justify-content: center;
   }
   
   section {
@@ -175,6 +176,7 @@
       display: grid;
       grid-template-columns: 100%;
       justify-content: center;
+      justify-items: center;
   }
 
 .encabezado {
@@ -243,14 +245,38 @@
 }
 
 .deadpool {
-  width: max-content;
-  background-color: crimson;
+  width: fit-content;
+  background-color: nth($colores, 4);
   justify-self: center;
   align-self: center;
   color: black;
   padding: 15%;
   background-image: url(https://s.yimg.com/ny/api/res/1.2/5dKZFYhR7.96YJWYRvFq3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/Za7qbn.7DhwW0E9swdBpjA--~B/aD0zMDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/es/levelup_525/633b34e07866e002d9871b69ff5db59d);
+  background-size: cover;
 }
+
+.wintersoldier {
+  width: fit-content;
+  background-color: nth($colores, 1);
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(https://www.gamespot.com/a/uploads/screen_kubrick/1582/15828986/3735819-0hed.jpg);
+  background-size: cover;
+}
+
+.zoolander2 {
+  width: fit-content;
+  background-color: nth($colores, 7);
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(../multimedia/mugatu.jpg);
+  background-size: cover;
+}
+
 
 .VideoTimmyDad {
   justify-self: center
@@ -260,18 +286,20 @@
   text-align: center;
 }
 
-.iframesspoty {
-  display: grid;
-  
-  align-items: center;
-  align-self: center;
-  border-radius: 15px;
-  border-style: groove;
-  border-radius: 15px;
-  padding: 10px;
-  justify-self: center;
+a {
+  text-decoration: none;
+}
+
+@media print {
+  img {
+    filter: grayscale(100%)
+   }
 }
 
 a {
-  text-decoration: none;
+  color: nth($colores, 1);
+}
+
+a:hover {
+  color: nth($colores, 4);
 }
