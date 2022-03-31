@@ -277,6 +277,71 @@
   background-size: cover;
 }
 
+.BoJack {
+  width: fit-content;
+  background-color: nth($colores, 4);
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(https://i.pinimg.com/736x/f4/7d/72/f47d72fa40b8f8a7d18adcf8f4c944cb.jpg);
+  background-size: cover;
+}
+
+.thegoodplace {
+  width: fit-content;
+  background-color: nth($colores, 1);
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(https://i.blogs.es/c80665/elenco-good-place-1033x581/840_560.jpg);
+  background-size: cover;
+}
+
+.finalspace {
+  width: fit-content;
+  background-color: nth($colores, 7);
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(https://poptaim.com/wp-content/uploads/2020/09/Final-Space-Principal.jpg);
+  background-size: cover;
+}
+
+.okami {
+  width: fit-content;
+  background-color: nth($colores, 4);
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto,c_pad,dpr_1.0,f_auto,q_auto,w_700/b_rgb:ffffff/v1/ncom/en_US/games/switch/o/okami-hd-switch/hero);
+  background-size: cover;
+}
+
+.thewitcher3 {
+  width: fit-content;
+  background-color: nth($colores, 1);
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/07/the-witcher-3-scaled.jpg?resize=1200%2C722&quality=50&strip=all&ssl=1);
+  background-size: cover;
+}
+
+.plagueinc {
+  width: fit-content;
+  background-color: nth($colores, 7);
+  justify-self: center;
+  align-self: center;
+  color: black;
+  padding: 15%;
+  background-image: url(https://i.blogs.es/28899b/plague-inc/1366_2000.jpg);
+  background-size: cover;
+}
 
 .VideoTimmyDad {
   justify-self: center
@@ -288,6 +353,32 @@
 
 a {
   text-decoration: none;
+}
+
+@media only screen and (max-width: 780px) {
+  body {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  p {
+    font-size: 80%;
+  }
+  h1 {
+    visibility: hidden;
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  body {
+    max-width: 80%;
+    box-sizing: border-box;
+  }
+  p {
+    font-size: 70%;
+  }
+  h1 {
+    visibility: hidden;
+  }
 }
 
 @media print {

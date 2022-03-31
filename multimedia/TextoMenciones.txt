@@ -6,12 +6,13 @@ Iconito Calavera Shakespeare <a href="https://www.flaticon.com/free-icons/skull"
 Iconito Tipo Pensando <a href="https://www.flaticon.com/free-icons/consider" title="consider icons">Consider icons created by Eucalyp - Flaticon</a>
 Iconito Comedia <a href="https://www.flaticon.com/free-icons/comedy" title="comedy icons">Comedy icons created by Freepik - Flaticon</a>
 Pibe de Delivery enojado <a href='https://www.freepik.es/fotos/hombre'>Foto de Hombre creado por stockking - www.freepik.es</a>
-<<<<<<< HEAD
 Foto de Karolina Grabowska en Pexels https://www.pexels.com/es-es/@karolina-grabowska?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
-=======
-Foto de Karolina Grabowska en Pexels https://www.pexels.com/es-es/@karolina-grabowska?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
-Foto de Pixabay en Pexels https://www.pexels.com/es-es/foto/sillas-multicolores-en-fila-257385/
-Deadpool Oops: https://es.finance.yahoo.com/news/deadpool-aparece-universo-cinematogr%c3%a1fico-marvel-001900463.html
->>>>>>> 006081d77d43aafc4e490e3f2cb913879e68be73
+Deadpool:https://www.xataka.com/cine-y-tv/como-deadpool-ha-reiniciado-moda-superheroes-para-adultos
 Winter Soldier: https://www.gamespot.com/a/uploads/screen_kubrick/1582/15828986/3735819-0hed.jpg
 La imagen de Mugatu no recuerdo de donde salio pero no es mia.
+BoJack Horseman: https://i.pinimg.com/736x/f4/7d/72/f47d72fa40b8f8a7d18adcf8f4c944cb.jpg
+The good place: https://i.blogs.es/c80665/elenco-good-place-1033x581/840_560.jpg
+Final Space: https://poptaim.com/wp-content/uploads/2020/09/Final-Space-Principal.jpg
+Okami: https://assets.nintendo.com/image/upload/ar_16:9,b_auto,c_pad,dpr_1.0,f_auto,q_auto,w_700/b_rgb:ffffff/v1/ncom/en_US/games/switch/o/okami-hd-switch/hero
+The Witcher 3: https://hipertextual.com/2021/07/the-witcher-3-next-gen-dlcs-serie-netflix
+Plague Inc: https://www.xataka.com/videojuegos/psicosis-coronavirus-llega-a-videojuegos-plague-inc-ha-sido-eliminado-appstore-china
